@@ -57,6 +57,9 @@ This project can calculate area and perimetr of the simplest shapes
 - Area(2, 5) = 5
 - Perimetr(1, 2, 3) = 6
 
+# Unit Testcases in tests.py file
+- Tests from examples
+
 # Commit History
 
 ![img.png](img.png)
